@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Adarshram👋
 
 <!--
 **adarshram-nair/adarshram-nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on ETL pipeline and Dashboard Development.
+🌱 I’m currently building skills in Data Engineering, Python and SQL.
+📂 Check out my [ETL driven dashboard project](https://github.com/adarshram-nair/ETL-Driven-Power-BI-Dashboard)
+📫 Reach me on nair.adarshram@gmail.com
+🔗 [My LinkedIn](https://www.linkedin.com/in/adarshram-nair/)
